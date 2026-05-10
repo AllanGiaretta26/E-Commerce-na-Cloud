@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 > Aplicação de cadastro e visualização de produtos para e-commerce, com upload de imagens em nuvem e persistência em banco relacional.
@@ -23,9 +23,9 @@ O projeto demonstra a integração entre Python, banco de dados relacional e ser
 
 ## Status do Projeto
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
-Projeto em desenvolvimento, com funcionalidades principais de cadastro e listagem já operacionais.
+Projeto concluído, com as funcionalidades de cadastro e listagem de produtos totalmente operacionais.
 
 ---
 
@@ -160,33 +160,12 @@ E-CommerceCloud/
 
 ---
 
-## 🔒 Boas Práticas de Segurança
+## Licença
 
-- ✅ Mantenha o arquivo `.env` fora do versionamento
-- ✅ Use contas de storage com acesso restrito
-- ✅ Configure regras de firewall no SQL Server
-- ✅ Rotação periódica de chaves e senhas
-- ✅ Use variáveis de ambiente em produção ao invés de `.env`
+Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
-## 📝 Licença
+## Autor
 
-Este projeto é open-source. Sinta-se livre para usar e modificar.
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Para sugerir melhorias ou reportar bugs:
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
----
-
-## 👤 Autor
-Desenvolvido por Allan Giaretta
+Desenvolvido por **[Allan Giaretta](https://github.com/AllanGiaretta26)**.
